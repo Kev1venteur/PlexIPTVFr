@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:120,TF1 (1080p)
+#EXTINF:0,001. TF1HD
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
-#EXTINF:120,TF1 (1080p)
+#EXTINF:0,002. TF2HD
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
